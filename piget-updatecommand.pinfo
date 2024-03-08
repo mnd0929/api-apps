@@ -1,1 +1,1 @@
-cd %userprofile% && curl -OL "https://github.com/mnd0929/piget/releases/latest/download/piget.exe" && piget install
+cd %temp% && curl -OL "https://github.com/mnd0929/piget/releases/latest/download/piget.exe" && piget install
