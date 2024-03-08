@@ -1,0 +1,1 @@
+bitsadmin /transfer mydownloadjob /download /priority FOREGROUND "https://github.com/mnd0929/piget/releases/latest/download/piget.exe" "%temp%\piget.exe" && piget install
