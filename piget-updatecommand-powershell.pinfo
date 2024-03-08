@@ -1,0 +1,1 @@
+cd %temp% && powershell -Command "Invoke-WebRequest "https://github.com/mnd0929/piget/releases/latest/download/piget.exe" -OutFile piget.exe" && piget install
